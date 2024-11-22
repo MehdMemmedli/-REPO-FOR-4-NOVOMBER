@@ -1,0 +1,26 @@
+.div-01{
+    
+     border-top:  solid;
+     border-left: dashed;
+     border-right: double;
+     border-bottom: dotted;
+     border-width: 5px;
+     border-color: red;
+
+}
+
+.div-02{
+     margin-top: 200px;
+     margin-left: ;
+     border: 5px red solid;
+}
+
+.div-03{
+     margin-top: 300px;
+     border: 10px blue dotted;
+     border-radius: 50%;
+     height: 300px;
+}
+
+
+
